@@ -54,7 +54,7 @@ M.setup = function()
     TabLineFill = { fg = c.bg_gutter, ctermfg = c.bg_gutter_256 },
     TabLineSel = { fg = c.kaki1, bg = c.bg_highlight, ctermfg = c.kaki1_256, ctermbg = c.bg_highlight_256 },
     Title = { fg = c.cyan1, ctermfg = c.cyan1_256 },
-    VertSplit = { fg = c.bg, bg = c.bg_highlight, ctermfg = c.bg_256, ctermbg = c.bg_highlight_256 },
+    VertSplit = { fg = c.bg_gutter, bg = c.bg_highlight, ctermfg = c.bg_gutter_256, ctermbg = c.bg_highlight_256 },
     Visual = { bg = c.fg_status, fg = c.yellow1, ctermfg = c.yellow1_256 },
     VisualNOS = { bg = c.green3, fg = c.yellow1, ctermbg = c.green3_256, ctermfg = c.yellow1_256 },
     Constant = { fg = c.red1, ctermfg = c.red1_256 },

@@ -8,7 +8,7 @@ return {
   fg_gutter = "#af875f", fg_gutter_256 = 137,
   fg_status = "#5faf5f", fg_status_256 = 71,
   kaki1 = "#afaf5f", kaki1_256 = 143,
-  gray1 = "#c0c0c0", gray1_256 = 7,
+  gray1 = "#c0c0c0", gray1_256 = 251,
   green1 = "#00875f", green1_256 = 29,
   green2 = "#afd75f", green2_256 = 149,
   green3 = "#005f00", green6_256 = 22,
